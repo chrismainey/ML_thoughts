@@ -71,9 +71,11 @@ _Patient Safet Lead - System Analysis & Delivery, NHSE/I_
 # What is machine learning, really?
 
 + Is it statistics?
+
 Yes, sort of.
 
 + Is it AI?  
+
 Yes, sort of.
 
 --
@@ -280,6 +282,9 @@ Is your dataset suitable for the task at hand?
 ]
 
 .pull-right[
+
+<br><br>
+
 <center>
 <img src = https://imgs.xkcd.com/comics/prediction.png>
 </center>
