@@ -1,5 +1,5 @@
 ---
-title: "Why mgcv is awesome"
+title: "ML Thoughts"
 author: "Chris Mainey"
 date: '`r Sys.Date()`'
 output:
@@ -33,7 +33,7 @@ library(Cairo)
 <br><br>
 __Chris Mainey__
 
-_Patient Safet Lead - System Analysis & Delivery, NHSE/I_
+_Patient Safety Lead - System Analysis & Delivery, NHSE/I_
 
 `r icons::fontawesome$solid$envelope` c.mainey@nhs.net
 
@@ -55,7 +55,7 @@ _Patient Safet Lead - System Analysis & Delivery, NHSE/I_
 
 ---
 
-# What is machine learing?
+# What is machine learning?
 
 
 > Machine-learning algorithms use statistics to find patterns in massive amounts of data. And data, here, encompasses a lot of things—numbers, words, images, clicks, what have you. If it can be digitally stored, it can be fed into a machine-learning algorithm.
@@ -91,7 +91,7 @@ scientific knowledge"
 
 --
 
-___I'd argue that most applications of 'AI' could equally be described as ML or staistics___
+___I'd argue that most applications of 'AI' could equally be described as ML or statistics___
 
 
 ---
@@ -310,7 +310,7 @@ Is your dataset suitable for the task at hand?
 .pull-right[
 <br><br>
 
-### What is you question?
+### What is your question?
 
 ### What's in there?
 
